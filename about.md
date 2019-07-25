@@ -4,12 +4,12 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+Economics and Finance graduate. Looking to start a career in tech. passianate about data and storytelling!
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+I speak spanish and english. Love to read and go to the gym. Sports fan
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[gustavopineda94@gmail.com](gustavopineda94@gmail.com)
